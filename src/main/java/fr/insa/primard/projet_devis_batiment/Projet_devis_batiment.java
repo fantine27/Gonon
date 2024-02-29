@@ -12,6 +12,6 @@ public class Projet_devis_batiment {
 
     public static void main(String[] args) {
         System.out.println("Hello World!");
-        System.out.println("Ton zeub hummide la "); 
-    }
+        System.out.println("on se re embrasse ! "); 
+    } 
 }
